@@ -9,6 +9,7 @@ public class Main {
 
     }
     public static void adduser(){
-
+int age=10;
+String name="punitha";
     }
 }
